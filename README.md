@@ -1,4 +1,4 @@
-# Arduino MacroPad PRO
+# Arduino MacroPad PRO 1.0
 
 Самодельный макропад на базе Arduino Uno с графическим интерфейсом на Python (CustomTkinter). Позволяет управлять компьютером с помощью физических кнопок.
 
@@ -22,7 +22,7 @@
 
 ## Файлы проекта
 - macropad_app.py — основной код программы (интерфейс и логика).
-- arduino_sketch.ino — прошивка для Arduino.
+- arduino.ino — прошивка для Arduino.
 - requirements.txt — список зависимостей для Python.
 
 ## Установка и запуск
